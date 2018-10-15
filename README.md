@@ -1,7 +1,11 @@
 # Planga Styles
 
-Repository with example styles to quickly integrate the Planga Chat Service in your application.
+[![Planga](https://img.shields.io/badge/%F0%9F%98%8E%20planga-chat-ff00ff.svg)](http://www.planga.io/)
+[![Planga Docs](https://img.shields.io/badge/planga-docs-lightgrey.svg)](http://www.planga.io/docs)
 
+Repository with example styles to quickly integrate the [Planga Chat Service](https://planga.io) in your application.
+
+**This is a work-in-progress. More styles to be added.**.
 
 ## Styles
 
