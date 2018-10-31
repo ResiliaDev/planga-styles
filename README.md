@@ -11,7 +11,7 @@ Repository with example styles to quickly integrate the [Planga Chat Service](ht
 
 ### Basic
 
-![Basic](/thumbs/basic.png)
+![Basic](/thumbs/basic2.png)
 
 The first style that was developed. A very simple, functional design that is easy to adapt.
 
