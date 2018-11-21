@@ -33,6 +33,12 @@
     opacity: 0.5;
 }
 
+.planga--chat-message-options {
+    display: inline-block;
+    float: right;
+    padding-left: 0.5em;
+    cursor: pointer;
+}
 
 .planga--chat-current-user-message  .planga--chat-author-wrapper {
     color: green;
