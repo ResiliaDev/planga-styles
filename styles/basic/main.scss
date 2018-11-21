@@ -1,5 +1,7 @@
-
-/* This file is for your main application css. */
+.planga--chat-container, .planga--chat-container * {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
 
 .planga--chat-container {
     margin-bottom: 50px;
@@ -27,6 +29,7 @@
 
 .planga--chat-current-user-message  .planga--chat-author-wrapper {
     color: green;
+    padding-right: 0.5em;
 }
 
 .planga--chat-message-sent-at-wrapper {
@@ -45,13 +48,6 @@
     text-align: right;
 }
 
-
-.planga--chat-author-name::after {
-    content: ":";
-    display: inline-block;
-    padding-left: 0.1em;
-    padding-right: 0.5em;
-}
 
 .planga--chat-message-content {
     display: inline-block;
